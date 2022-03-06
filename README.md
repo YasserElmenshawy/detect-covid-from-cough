@@ -1,1 +1,1 @@
-# detect-covid-from-gough
+# detect-covid 19-from-cough
